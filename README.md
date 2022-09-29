@@ -1,2 +1,1 @@
-# cp-resources
-Contest Programming Resources
+#Contest Programming Resources
